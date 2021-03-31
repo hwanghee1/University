@@ -24,9 +24,8 @@
 > * 소프트웨어 공학 - [링크](https://github.com/hwanghee1/University/tree/main/2018_2/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99)
 >> * 추천기능을 탑재한 도서대출 프로그램 제작 (JAVA)
 > * 어셈블리어 - [링크](https://github.com/hwanghee1/University/tree/main/2018_2/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4)
->> 1. CPU설계
->> 2. 메모리설계
->> 3. 어셈블리어 코딩과제
+>> 1. 메모리설계
+>> 2. 어셈블리어 코딩과제
 
 ## 2019년 1학기
 > * 시계열 데이터 분석 - [링크](https://github.com/hwanghee1/University/tree/main/2019_1/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
