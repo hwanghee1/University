@@ -24,17 +24,16 @@
 > * 소프트웨어 공학 - [링크](https://github.com/hwanghee1/University/tree/main/2018_2/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%20%EA%B3%B5%ED%95%99)
 >> * 추천기능을 탑재한 도서대출 프로그램 제작 (JAVA)
 > * 어셈블리어 - [링크](https://github.com/hwanghee1/University/tree/main/2018_2/%EC%96%B4%EC%85%88%EB%B8%94%EB%A6%AC%EC%96%B4)
->> 1. CPU설계
->> 2. 메모리설계
->> 3. 어셈블리어 코딩과제
+>> 1. 메모리설계
+>> 2. 어셈블리어 코딩과제
 
 ## 2019년 1학기
 > * 시계열 데이터 분석 - [링크](https://github.com/hwanghee1/University/tree/main/2019_1/%EC%8B%9C%EA%B3%84%EC%97%B4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EB%B6%84%EC%84%9D)
 >> * 경기 종합지수 시계열 모델 생성 및 예측 (SAS)
 > * 알고리즘 - [링크](https://github.com/hwanghee1/University/tree/main/2019_1/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 >> 1. 정렬알고리즘 성능평가 (선택, 삽입, 퀵, 합병, 힙 정렬)
->> 2. AOV 네트워크 실습
->> 3. bfs 구현
+>> 2. AOV 네트워크 실습 (C++)
+>> 3. bfs 구현 (C++)
 > * 통계 캡스톤 디자인 - [링크](https://github.com/hwanghee1/University/tree/main/2019_1/%ED%86%B5%EA%B3%84%20%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%94%94%EC%9E%90%EC%9D%B8)
 >> * 통일에 대한 20대 대학생들의 인식 조사 (앙케이트/SPSS)
 
