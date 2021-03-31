@@ -32,8 +32,8 @@
 >> * 경기 종합지수 시계열 모델 생성 및 예측 (SAS)
 > * 알고리즘 - [링크](https://github.com/hwanghee1/University/tree/main/2019_1/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 >> 1. 정렬알고리즘 성능평가 (선택, 삽입, 퀵, 합병, 힙 정렬)
->> 2. AOV 네트워크 실습
->> 3. bfs 구현
+>> 2. AOV 네트워크 실습 (C++)
+>> 3. bfs 구현 (C++)
 > * 통계 캡스톤 디자인 - [링크](https://github.com/hwanghee1/University/tree/main/2019_1/%ED%86%B5%EA%B3%84%20%EC%BA%A1%EC%8A%A4%ED%86%A4%20%EB%94%94%EC%9E%90%EC%9D%B8)
 >> * 통일에 대한 20대 대학생들의 인식 조사 (앙케이트/SPSS)
 
