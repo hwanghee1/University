@@ -3,18 +3,18 @@
 
 ## 2017년 2학기 (2학년 2학기)
 > * 자료구조 - [링크](https://github.com/hwanghee1/University/tree/main/2017_2/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0)
->> 1. 선택정렬
->> 2. 이진검색
->> 3. 스택을 이용한 POSTFIX와 EVALUATION
->> 4. 다항식을 이용한 연결리스트
->> 5. 연결리스트를 이용한 뒤집기 연산
+>> 1. 선택정렬 (C++)
+>> 2. 이진검색 (C++)
+>> 3. 스택을 이용한 POSTFIX와 EVALUATION (C++)
+>> 4. 다항식을 이용한 연결리스트 (C++)
+>> 5. 연결리스트를 이용한 뒤집기 연산 (C++)
 > * 자바 프로그래밍 및 실습 - [링크](https://github.com/hwanghee1/University/tree/main/2017_2/%EC%9E%90%EB%B0%94%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%B0%8F%20%EC%8B%A4%EC%8A%B5)
->> 1. ATM프로그램 제작
->> 2. 계산기 프로그램 제작
+>> 1. ATM프로그램 제작 (JAVA)
+>> 2. 계산기 프로그램 제작 (JAVA)
 
 ## 2018년 1학기 (3학년 1학기)
 > * 논리회로 실험 - [링크](https://github.com/hwanghee1/University/tree/main/2018_1/%EB%85%BC%EB%A6%AC%ED%9A%8C%EB%A1%9C%20%EC%8B%A4%ED%97%98)
->> * 교통신호 제어기 설계 (logicworks구현 및 브레드 보드 구현)
+>> * 교통신호 제어기 설계 (logicworks,브레드 보드)
 > * 데이터마이닝 - [링크](https://github.com/hwanghee1/University/tree/main/2018_1/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A7%88%EC%9D%B4%EB%8B%9D)
 >> * housing data mining project (SAS Enterprise Miner)
 > * 운영체제 설계 - [링크](https://github.com/hwanghee1/University/tree/main/2018_1/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%20%EC%84%A4%EA%B3%84)
